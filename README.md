@@ -8,7 +8,7 @@
   [Screenshot 1 of the project](assets/11-express-homework-demo-01.png)
   [Screenshot 2 of the project](assets/11-express-homework-demo-02.png)
 
-  Click [here](https://crhinesmith.github.io/alDente/) for project's live URL.
+  Click [here](https://evening-beach-94747.herokuapp.com/) for project's live URL.
   
   ## Table of Contents
 
