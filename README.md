@@ -5,8 +5,8 @@
   ## Description 
   A notetaking app was created utilizing starter code. This exercise was one rooted in routing. 
   
-  [Screenshot 1 of the project](assets/11-express-homework-demo-01.png)
-  [Screenshot 2 of the project](assets/11-express-homework-demo-02.png)
+  ![Screenshot 1 of the project](./Assets/11-express-homework-demo-01.png)
+  ![Screenshot 2 of the project](./Assets/11-express-homework-demo-02.png)
 
   Click [here](https://evening-beach-94747.herokuapp.com/) for project's live URL.
   
